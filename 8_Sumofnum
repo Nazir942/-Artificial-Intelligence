@@ -1,6 +1,0 @@
-def find_sum(*Numbers):
-  
-    return sum(Numbers)
-
-result = find_sum(10, 20, 30, 40, 50)
-print("The sum of the numbers is:", result)
