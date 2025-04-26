@@ -1,4 +1,4 @@
-**Title: **
+**Title:**
 Modified K-Means Clustering Using Manhattan Distance and 2D Text Visualization.
 
 **Introduction:**
